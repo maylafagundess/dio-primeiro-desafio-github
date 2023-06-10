@@ -2,6 +2,8 @@ Anotações
 
 git add .
 
+mudei direto no git
+
 git commit -m "insira texto aqui"
 
 git push origin main
