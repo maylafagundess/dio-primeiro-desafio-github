@@ -1,1 +1,7 @@
 Anotações
+
+git add .
+
+git commit -m "insira texto aqui"
+
+git push origin main
